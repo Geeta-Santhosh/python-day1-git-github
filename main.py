@@ -4,7 +4,7 @@ c=a+b
 print(c)
 
 def divide(a,b):
-    print(a/b)
+    print(a-b)
 
 divide(a,b)
 
