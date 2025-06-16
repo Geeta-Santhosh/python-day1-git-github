@@ -8,4 +8,10 @@ def divide(a,b):
 
 divide(a,b)
 
+def multiply(a,b):
+    print(a*b)
+
+multiply(a,b)
+
+
 
